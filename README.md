@@ -1,1 +1,1 @@
-https://Pollyrockk.github.io/rsschool-cv/
+https://pollyrockk.github.io/rsschool-cv/rsschool-cv-html/
