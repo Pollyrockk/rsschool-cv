@@ -274,7 +274,6 @@ border-radius: 40px;
 }
 pre{
    margin: 0 0;
-   white-space: pre-line;
 }
 footer{
    display: flex;
